@@ -86,9 +86,9 @@ export default {
 ```
 ## Modifications/Build/Contribution
 
-[GitHub](https://github.com/amemFE/moa-gallery)
+You can import directly from npm or clone from git hub modify and build.
 
-You can imort directly from npm or clone from git hub modify and build.
+[GitHub](https://github.com/amemFE/moa-gallery) repository.
 
 1. clone from Github.
 2. install dependencies.
