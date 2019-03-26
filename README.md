@@ -48,7 +48,7 @@ Structure of the image array (href is required other 2 fields optional)
  }]
 ```
 
-## Example vue component
+## Example Vue-2 component
 
 ```html
 <template>
