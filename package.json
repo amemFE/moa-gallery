@@ -1,6 +1,6 @@
 {
   "name": "npm-moa-gallery",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "readme": "./README.md",
   "description": "",
   "main": "dist/gallery.umd.js",
@@ -8,7 +8,7 @@
   "unpkg": "dist/gallery.min.js",
   "browser": {
     "./sfc": "src/gallery.vue"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amemFE/moa-gallery.git"
