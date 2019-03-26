@@ -8,7 +8,24 @@
   "unpkg": "dist/gallery.min.js",
   "browser": {
     "./sfc": "src/gallery.vue"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amemFE/moa-gallery.git"
   },
+  "homepage": "https://github.com/amemFE/moa-gallery#readme",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "gallery",
+    "images",
+    "vue-gallery",
+    "vuejs-gallery",
+    "pictures",
+    "vue-plugin",
+    "vue-component"
+  ],
   "files": [
     "dist/*",
     "src/*"

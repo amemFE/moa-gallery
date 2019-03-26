@@ -92,8 +92,8 @@ You can import directly from npm or clone from git hub modify and build.
 
 [GitHub](https://github.com/amemFE/moa-gallery) repository.
 
-1. clone from Github.
-2. install dependencies.
+* clone from Github.
+* install dependencies.
  ```
  npm install
  ```
@@ -103,14 +103,14 @@ for live testing excute below line from root directory.
 vue serve ./src/example/example.vue
 ```
 
-3. Do your modifications.
-4. Run a build 
+* Do your modifications.
+* Run a build 
 ```
 npm run build
 ```
-5. you can use build files in dist folder
+* You can use build files in dist folder
 
-you should install blueimp-gallery (dependency) exteranally for this case.
+* You should install blueimp-gallery (dependency) exteranally for this case.
 
 ```
 npm i blueimp-gallery --save
@@ -118,4 +118,4 @@ npm i blueimp-gallery --save
 ```html
 import * as Gallery from "./gallery.umd.js (path to gallery.umd.js)"
 ```
-6. Then do all things, same as `Getting start` section.
+* Then do all things, same as `Getting start` section.
