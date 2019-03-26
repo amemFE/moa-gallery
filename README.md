@@ -1,4 +1,4 @@
-npm-moa-Gallery
+npm-moa-gallery
 ==========
 
 This is a vue 2 based modern gallery, which can be used as a cover. First 5 images in the array will be displayed as a cover view, If the array has less than 5 images first image will be shown as cover. Other images can be seen by clicking on an image or clicking view photos button.
