@@ -5,14 +5,14 @@ This is a vue 2 based modern gallery which can be used instead of a cover photo.
 
 This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-gallery)
 
-# Getting Started
+
   <!-- * [Getting Started Guide](http://www.idangero.us/swiper/get-started/)
   * [API](http://www.idangero.us/swiper/api/)
   * [Demos](http://www.idangero.us/swiper/demos/)
   * [Forum](http://www.idangero.us/swiper/forum/) -->
 
 
-### Getting start
+## Getting start
 ```
 $ npm i npm-moa-gallery --save
 ```
@@ -110,4 +110,4 @@ npm i blueimp-gallery --save
 ```html
 import Gallery from "./gallery.umd.js (path to gallery.umd.js)"
 ```
-6. Then do all things, same as Getting start section.
+6. Then do all things, same as ###Getting start section.
