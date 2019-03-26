@@ -108,6 +108,6 @@ you should install blueimp-gallery (dependency) exteranally for this case.
 npm i blueimp-gallery --save
 ```
 ```html
-import Gallery from "./gallery.umd.js (path to gallery.umd.js)"
+import * as Gallery from "./gallery.umd.js (path to gallery.umd.js)"
 ```
 6. Then do all things, same as `Getting start` section.
