@@ -110,4 +110,4 @@ npm i blueimp-gallery --save
 ```html
 import Gallery from "./gallery.umd.js (path to gallery.umd.js)"
 ```
-6. Then do all things, same as ###Getting start section.
+6. Then do all things, same as `Getting start` section.
