@@ -97,7 +97,7 @@ You can import directly from npm or clone from git hub modify and build.
  ```
  npm install
  ```
-for live testing excute below line from root directory.
+* For live testing excute below line from the root directory.
 
 ```
 vue serve ./src/example/example.vue
