@@ -1,7 +1,7 @@
 npm-moa-Gallery
 ==========
 
-This is a vue 2 based modern gallery, which can be used as a cover. First 5 images in the array will be displayed as a cover view, If the array has less than 5 images first image will be shown as cover. Other images can be seen by clicking on an image or clicking view photos button.
+This is a vue 2 based modern gallery which can be used instead of a cover photo. First 5 images in the array will be displayed in the cover view; however, if the array has less than 5 images, first image will be displayed as the cover photo and other imgaes can be viewed by clicking on an image or invoking the 'View Photos' button.
 
 This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-gallery)
 
@@ -11,7 +11,6 @@ This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-g
   * [Demos](http://www.idangero.us/swiper/demos/)
   * [Forum](http://www.idangero.us/swiper/forum/) -->
 
-### Installation/usage
 
 ### Getting start
 ```
@@ -85,3 +84,30 @@ export default {
 
 </style>
 ```
+## Modifications/Build/Contribution
+
+[GitHub](https://github.com/amemFE/moa-gallery)
+
+You can imort directly from npm or clone from git hub modify and build.
+
+1. clone from Github.
+2. install dependencies.
+ ```
+ npm install
+ ```
+3. Do your modifications.
+4. Run a build 
+```
+npm run build
+```
+5. you can use build files in dist folder
+
+you should install blueimp-gallery (dependency) exteranally for this case.
+
+```
+npm i blueimp-gallery --save
+```
+```html
+import Gallery from "./gallery.umd.js (path to gallery.umd.js)"
+```
+6. Then do all things, same as Getting start section.
