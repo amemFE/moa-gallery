@@ -10,6 +10,8 @@ This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-g
   * [API](http://www.idangero.us/swiper/api/)
   * [Demos](http://www.idangero.us/swiper/demos/)
   * [Forum](http://www.idangero.us/swiper/forum/) -->
+  
+![alt text](https://s3-us-west-2.amazonaws.com/moa-static-files/extra_images/Screenshot+from+2019-03-26+17-24-29.png)
 
 
 ## Getting start
