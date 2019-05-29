@@ -142,6 +142,19 @@
 </script>
 
 <style scoped>
+@media (max-width: 768px) {
+  .img-left {
+    height: 365px;
+    max-width: 100%;
+    min-width: 100%;
+  }
+    .img-right {
+    height: 350px;
+  }
+  .img-right {
+    display: none;
+  }
+}
   .blueimp-gallery > .description {
     position: absolute;
     top: 30px;
