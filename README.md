@@ -1,4 +1,4 @@
-npm-moa-gallery
+vue-cover-gallery
 ==========
 
 This is a vue 2 based modern gallery which can be used instead of a cover photo. First 5 images in the array will be displayed in the cover view; however, if the array has less than 5 images, first image will be displayed as the cover photo and other imgaes can be viewed by clicking on an image or invoking the 'View Photos' button.
@@ -16,13 +16,13 @@ This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-g
 
 ## Getting start
 ```
-$ npm i npm-moa-gallery --save
+$ npm i vue-cover-gallery --save
 ```
 
 Then imprort gallery to a vue component.
 
 ```html
-import Gallery from "npm-moa-gallery"
+import Gallery from "vue-cover-gallery"
 ```
 
 Then include Gallery as a child component
@@ -57,7 +57,7 @@ Structure of the image array (href is required other 2 fields optional)
 </template>
   
 <script>
-import Gallery from "npm-moa-gallery"
+import Gallery from "vue-cover-gallery"
 export default {
   
   name: "Example",
