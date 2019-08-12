@@ -13,15 +13,19 @@ This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-g
   
 ![alt text](https://s3-us-west-2.amazonaws.com/moa-static-files/extra_images/Screenshot+from+2019-03-26+17-24-29.png)
 
+## Example
+
+[Live demo](https://test-project-2baad.firebaseapp.com/)
+
 
 ## Getting start
 
-install boostrap,jQuery and popper.js (ignore these 2 steps if you already have)
+Install boostrap,jQuery and popper.js (ignore these 2 steps if you already have)
 
 ```
 $ npm i bootstrap jquery popper.js
 ```
-import to your main.js
+Import to your main.js
 
 ```
 import 'bootstrap'; 

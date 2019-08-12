@@ -1,6 +1,6 @@
 {
   "name": "vue-cover-gallery",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "readme": "./README.md",
   "description": "",
   "main": "dist/gallery.umd.js",
