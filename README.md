@@ -15,6 +15,19 @@ This Gallery is a modification of [vue-Gallery](https://github.com/RobinCK/vue-g
 
 
 ## Getting start
+
+install boostrap,jQuery and popper.js (ignore these 2 steps if you already have)
+
+```
+$ npm i bootstrap jquery popper.js
+```
+import to your main.js
+
+```
+import 'bootstrap'; 
+import 'bootstrap/dist/css/bootstrap.min.css';
+```
+After installing this dependencies
 ```
 $ npm i vue-cover-gallery --save
 ```
