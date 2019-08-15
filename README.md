@@ -31,12 +31,12 @@ Import to your main.js
 import 'bootstrap'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
 ```
-After installing this dependencies
+After installing boostrap install vue-cover-gallery
 ```
 $ npm i vue-cover-gallery --save
 ```
 
-Then imprort gallery to a vue component.
+Then import gallery to a vue component.
 
 ```html
 import Gallery from "vue-cover-gallery"

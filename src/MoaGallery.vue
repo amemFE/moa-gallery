@@ -124,6 +124,21 @@ import BlueMapGallery from "./Gallery.vue"
   font-size: 18px;
   text-transform: capitalize;
 }
+
+
+@media (max-width:768px) {
+  .img-right{
+    display: none;
+  }
+  .img-left{
+    cursor: pointer;
+    opacity: .8;
+    height: 365px !important;
+    max-width: 100%;
+    flex: 0 0 100%;
+    border: 0 !important;
+}
+}
 </style>
  
 
